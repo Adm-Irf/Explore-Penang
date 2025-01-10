@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Adm-Irf/Explore-Penang/static/css/main.a4839397.css",
+    "main.js": "/Adm-Irf/Explore-Penang/static/js/main.0b47f9ea.js",
+    "static/media/homepage.jpg": "/Adm-Irf/Explore-Penang/static/media/homepage.e186c8512b973d56b1d1.jpg",
+    "static/media/laksa.jpeg": "/Adm-Irf/Explore-Penang/static/media/laksa.3d8646d1d7874bd4ab40.jpeg",
+    "static/media/straitsquay.jpg": "/Adm-Irf/Explore-Penang/static/media/straitsquay.42ec66ae3ad1aec133c8.jpg",
+    "static/media/kapitan.jpg": "/Adm-Irf/Explore-Penang/static/media/kapitan.595cdff2c48de607bbc0.jpg",
+    "static/media/escape.jpg": "/Adm-Irf/Explore-Penang/static/media/escape.00d412b78b2dfdecc48c.jpg",
+    "static/media/armenian-05.webp": "/Adm-Irf/Explore-Penang/static/media/armenian-05.3df8407619cec44ceed2.webp",
+    "static/media/balikpulau.jpg": "/Adm-Irf/Explore-Penang/static/media/balikpulau.c35526e1a43c7bbdc35a.jpg",
+    "static/media/penang hill.jpg": "/Adm-Irf/Explore-Penang/static/media/penang hill.5452b481755860e27483.jpg",
+    "static/media/kerachut.jpg": "/Adm-Irf/Explore-Penang/static/media/kerachut.4c61d66d9b5519e95c79.jpg",
+    "static/media/adam.jpg": "/Adm-Irf/Explore-Penang/static/media/adam.d0a42915002d65cb6598.jpg",
+    "static/media/gurney.jpg": "/Adm-Irf/Explore-Penang/static/media/gurney.aad3b19865407ac0629f.jpg",
+    "static/media/turtle.jpg": "/Adm-Irf/Explore-Penang/static/media/turtle.d26277104904d280f75f.jpg",
+    "static/media/deen.jpeg": "/Adm-Irf/Explore-Penang/static/media/deen.5be213272532c4690af4.jpeg",
+    "static/media/queensbay.jpg": "/Adm-Irf/Explore-Penang/static/media/queensbay.0332c6bf686ae957730d.jpg",
+    "static/media/aidil.jpg": "/Adm-Irf/Explore-Penang/static/media/aidil.cb5d4c93e001dea49568.jpg",
+    "static/media/amirah.jpg": "/Adm-Irf/Explore-Penang/static/media/amirah.fb73bf2c5290b2d36eb7.jpg",
+    "static/media/nadiah.jpg": "/Adm-Irf/Explore-Penang/static/media/nadiah.1d04190e9ef2066c4bd8.jpg",
+    "index.html": "/Adm-Irf/Explore-Penang/index.html",
+    "main.a4839397.css.map": "/Adm-Irf/Explore-Penang/static/css/main.a4839397.css.map",
+    "main.0b47f9ea.js.map": "/Adm-Irf/Explore-Penang/static/js/main.0b47f9ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4839397.css",
+    "static/js/main.0b47f9ea.js"
+  ]
+}
