@@ -2,7 +2,7 @@
   "name": "basic_react_app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/Adm-Irf/Explore-Penang",
+  "homepage": "https://adm-irf.github.io/Explore-Penang/",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
