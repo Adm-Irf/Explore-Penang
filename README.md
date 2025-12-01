@@ -8,7 +8,7 @@ Welcome to **Explore-Penang**, a simple but polished personal website showcasing
 
 - A static, client-side website built with **HTML, CSS, and JavaScript**.  
 - Hosted on **GitHub Pages** via the repository **`adm-irf.github.io/Explore-Penang`**, so anyone can access it at `https://adm-irf.github.io/Explore-Penang/`.  
-- Designed to deliver a clean, responsive, and easy-to-navigate experience — no backend, no build steps, just plain web files.  
+- Designed to deliver a clean, responsive, and easy-to-navigate experience
 
 ---
 
@@ -18,14 +18,14 @@ I chose a plain-HTML / vanilla-CSS / JS stack for a number of reasons:
 
 - **Simplicity and control** — by not using heavy frameworks, I retain full control over every aspect: layout, styling, responsiveness, and structure.  
 - **Fast loading and portability** — the static nature ensures quick load times and minimal hosting overhead.  
-- **Low friction for hosting and maintenance** — with just HTML/CSS/JS, deployment to GitHub Pages is straightforward. In fact, GitHub Pages supports static sites directly when you push HTML/CSS/JS to a repo named `username.github.io`. :contentReference[oaicite:0]{index=0}  
+- **Low friction for hosting and maintenance** — with just HTML/CSS/JS, deployment to GitHub Pages is straightforward. In fact, GitHub Pages supports static sites directly when you push HTML/CSS/JS to a repo named `username.github.io`. 
 
 Through building this site, I sharpened multiple skills:  
 
-- Structuring a multi-page website (navigation, linking between pages, assets organization)  
+- Structuring a single-page linkage website (navigation & assets organization)  
 - Writing clean, semantic HTML and organized CSS for responsive design  
-- Using JavaScript (if needed) to improve interactivity or dynamic behavior  
-- Understanding version control and deployment via GitHub — how to push changes, commit history, and keep the live site synced  
+- Using JavaScript to improve interactivity or dynamic behavior  
+- Understanding version control and deployment via GitHub  
 
 Also, I gained a better appreciation for user experience (UX) — building something minimal but aesthetic, thinking about readability, navigation flow, and how a site behaves across devices.  
 
@@ -59,22 +59,10 @@ It’s also a sandbox where I can experiment with new ideas — maybe try dark-m
 
 ---
 
-## 🚀 How to use / preview locally  
-
-If you clone this repo and want to preview locally:  
-
-1. Clone the repo.  
-2. Open `index.html` in a web browser (no server needed — since it’s static).  
-3. If using custom JS or linking pages, ensure relative paths are correct so navigation and assets load properly.  
-
-Because the site is purely static HTML/CSS/JS, you don’t need to install anything extra or run build tools.  
-
----
-
 ## 💬 Credits / Notes  
 
 - Built and maintained by **“adm-irf”**.  
-- Inspired by best practices for static site hosting: clean file structure, semantic HTML/CSS, minimal dependencies, and GitHub Pages deployment. The idea of using GitHub Pages for portfolios or personal sites is a simple yet powerful way to host a site for free. :contentReference[oaicite:1]{index=1}  
+- Inspired by best practices for static site hosting: clean file structure, semantic HTML/CSS, minimal dependencies, and GitHub Pages deployment. The idea of using GitHub Pages for portfolios or personal sites is a simple yet powerful way to host a site for free.
 - If you find bugs, want to suggest features, or want to fork it for yourself — feel free to do so.  
 
 ---
