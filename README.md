@@ -1,4 +1,5 @@
-# Explore-Penang 🌴
+# Explore-Penang 🌴 
+### A Frontend Web Development Project
 
 Welcome to **Explore-Penang**, a simple but polished personal website showcasing places, maps and travel-inspiration around Penang. It also serves as a glimpse into my passion for web design and my evolving frontend skills.  
 
