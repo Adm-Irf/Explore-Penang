@@ -11,6 +11,10 @@ Welcome to **Explore-Penang**, a simple but polished personal website showcasing
 - Hosted on **GitHub Pages** via the repository **`adm-irf.github.io/Explore-Penang`**, so anyone can access it at `https://adm-irf.github.io/Explore-Penang/`.  
 - Designed to deliver a clean, responsive, and easy-to-navigate experience
 
+**Deployment Note**❗❗❗
+- Frontend-only deployment.
+- Best viewed on laptop or tablet.
+
 ---
 
 ## 🛠 Why this approach & what I learned  
