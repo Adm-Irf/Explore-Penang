@@ -62,7 +62,7 @@ It’s also a sandbox where I can experiment with new ideas — maybe try dark-m
 
 ## 💬 Credits / Notes  
 
-- Built and maintained by **“adm-irf”**.  
+- Built and maintained by **“adm-irf”** & **“amirah78”**.  
 - Inspired by best practices for static site hosting: clean file structure, semantic HTML/CSS, minimal dependencies, and GitHub Pages deployment. The idea of using GitHub Pages for portfolios or personal sites is a simple yet powerful way to host a site for free.
 - If you find bugs, want to suggest features, or want to fork it for yourself — feel free to do so.  
 
